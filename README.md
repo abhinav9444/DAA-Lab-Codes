@@ -19,7 +19,7 @@ The languages used throughout the lab are :
   
  ## Lab Session 0 : Basics and Fundamentals
 
-| **S.No.** | **Problem Statement**            | **Solution File**             |
+| **S.No.** | **Problem Statement**            | **Solution File in C**             |
 |-----------|----------------------------------|-------------------------------|
 | **0.1**     | Write a Program to Count no. of digits in a number                                         | [Solution](./Lab-Codes/0.1.c)|
 | **0.2**     | Take input of 3 numbers and find max among 3 numbers.                                      | [Solution](./Lab-Codes/0.2.c)|
