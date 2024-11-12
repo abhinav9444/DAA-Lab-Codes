@@ -29,6 +29,12 @@ The languages used throughout the lab are :
 
 ## Lab Session 1 : Revision of Data Structures
 
+| **S.No.** | **Problem Statement**            | **Solution File in C**             |
+|-----------|----------------------------------|-------------------------------|
+| **1.1**     | WAP to find out the second smallest and second largest element stored in an array of n integers.                                   | <p align="center">[Solution](./Lab-Codes/0.1.c)</p>|
+| **1.2**     | Given an array arr[] of size N, find the prefix sum of the array. A prefix sum array is another array prefixSum[] of the same size, such that the value of prefixSum[i] is arr[0] + arr[1] + arr[2] . . . arr[i].                     | <p align="center">[Solution](./Lab-Codes/0.2.c)</p>|
+| **1.3**     | Write a program to read ‘n’ integers that must contain some duplicate values and store them into an array. Perform the following operations on the array. a)Find out the total number of duplicate elements. b)Find out the most repeating element in the array. | <p align="center">[Solution](./Lab-Codes/0.3.c)</p>|
+
 ## 🛠️ Getting Started
 
 To get started with this repository, follow these steps:
