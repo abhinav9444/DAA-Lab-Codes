@@ -1,15 +1,19 @@
-# Design and Analysis of Algorithms Laboratory
+# Design and Analysis of Algorithms Laboratory (CS39001)
 
-Welcome to the **Design and Analysis of Algorithms Laboratory** repository! 🚀 This repository contains a collection of algorithms and data structures implemented and analyzed for educational purposes. The aim is to provide a comprehensive resource for learning and exploring various algorithmic techniques and their complexities.
+Welcome to the **Design and Analysis of Algorithms Laboratory** repository ! This repository contains a collection of all algorithms and data structures that I have implemented and analyzed in my DAA lab sessions. It serves as a digital archive of the work done in the laboratory sessions as well as a comprehensive resource for learning and exploring various algorithmic techniques and their complexities.
 
 ## 📚 Overview
-
-In this laboratory, you'll find:
-
+The repository features a wide range of classic and modern algorithms, covering various aspects of algorithm design and analysis.
+In this laboratory, you'll find :
 - **Algorithm Implementations:** A range of classic and modern algorithms implemented in different programming languages.
 - **Data Structures:** Implementations of fundamental data structures like arrays, linked lists, stacks, queues, trees, and graphs.
 - **Complexity Analysis:** Detailed analyses of time and space complexities for various algorithms.
 - **Visualization Tools:** Tools and scripts to visualize the behavior and performance of algorithms.
+
+## 🖥️ Languages Used
+The languages used throughout the lab are :
+ - C
+ - Python
 
 # 📂DAA Lab Sessions Index
   
