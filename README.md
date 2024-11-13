@@ -46,7 +46,7 @@ The languages used throughout the lab are :
 
 | **S.No.** | **Problem Statement**            | **Solution File in C**             |
 |-----------|----------------------------------|-------------------------------|
-| **9.1**   | Given a directed weighted graph G (V, E) where weight indicates distance. Vertices will be numbered consecutively from 1 to n (user input), and edges will have varying distances or lengths. ●Determine the length of the shortest path between every pair of vertices using Floyd-Warshall’s algorithm. ●Display the intermediate vertices on the shortest-path from the given pair of vertices (u,v).    Note# The graph G can be read from console input as cost adjacency matrix. The expected output could be a shorted-path weight matrix and the path consisting of intermediate vertices.     | <p align="center">[Solution](./Lab-Codes/9.1.c)</p>|
+| **9.1**   | Given a directed weighted graph G (V, E) where weight indicates distance. Vertices will be numbered consecutively from 1 to n (user input), and edges will have varying distances or lengths. ●Determine the length of the shortest path between every pair of vertices using Floyd-Warshall’s algorithm. ●Display the intermediate vertices on the shortest-path from the given pair of vertices (u,v).    Note# The graph G can be read from console input as cost adjacency matrix. The expected output could be a shorted-path weight matrix and the path consisting of intermediate vertices.     | <p align="center">[Solution](./Lab-Codes/9.1.py)</p>|
 
 ## 🛠️ Getting Started
 
