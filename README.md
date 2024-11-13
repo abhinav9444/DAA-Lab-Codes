@@ -39,8 +39,8 @@ The languages used throughout the lab are :
 
 | **S.No.** | **Problem Statement**            | **Solution File in C**             |
 |-----------|----------------------------------|-------------------------------|
-| **8.1**     | Write a program to implement the matrix chain multiplication problem using M-table & S-table to find optimal parenthesization of a matrix-chain product. Print the number of scalar multiplications required for the given input.                                        | <p align="center">[Solution](./Lab-Codes/8.1.c)</p>|
-| **8.2**     | Write a program to find out the Longest Common Subsequence of two given strings. Calculate length of the LCS.                                      | <p align="center">[Solution](./Lab-Codes/8.2.c)</p>|
+| **8.1**     | Write a program to implement the matrix chain multiplication problem using M-table & S-table to find optimal parenthesization of a matrix-chain product. Print the number of scalar multiplications required for the given input.                                        | <p align="center">[Solution](./Lab-Codes/8.1.py)</p>|
+| **8.2**     | Write a program to find out the Longest Common Subsequence of two given strings. Calculate length of the LCS.                                      | <p align="center">[Solution](./Lab-Codes/8.2.py)</p>|
 
 ## 🛠️ Getting Started
 
