@@ -35,6 +35,13 @@ The languages used throughout the lab are :
 | **1.2**     | Given an array arr[] of size N, find the prefix sum of the array. A prefix sum array is another array prefixSum[] of the same size, such that the value of prefixSum[i] is arr[0] + arr[1] + arr[2] . . . arr[i].                     | <p align="center">[Solution](./Lab-Codes/0.2.c)</p>|
 | **1.3**     | Write a program to read ‘n’ integers that must contain some duplicate values and store them into an array. Perform the following operations on the array. a)Find out the total number of duplicate elements. b)Find out the most repeating element in the array. | <p align="center">[Solution](./Lab-Codes/0.3.c)</p>|
 
+ ## Lab Session 8 : Dynamic Programming
+
+| **S.No.** | **Problem Statement**            | **Solution File in C**             |
+|-----------|----------------------------------|-------------------------------|
+| **8.1**     | Write a program to implement the matrix chain multiplication problem using M-table & S-table to find optimal parenthesization of a matrix-chain product. Print the number of scalar multiplications required for the given input.                                        | <p align="center">[Solution](./Lab-Codes/8.1.c)</p>|
+| **8.2**     | Write a program to find out the Longest Common Subsequence of two given strings. Calculate length of the LCS.                                      | <p align="center">[Solution](./Lab-Codes/8.2.c)</p>|
+
 ## 🛠️ Getting Started
 
 To get started with this repository, follow these steps:
